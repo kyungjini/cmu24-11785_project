@@ -1,0 +1,1013 @@
+2024-10-30 12:28:40,970 train INFO: 
+Epoch 1
+2024-10-30 12:34:34,042 train INFO: 
+Epoch 1
+2024-10-30 12:36:24,902 train INFO: 
+Epoch 1
+2024-10-30 12:37:24,437 train INFO: 
+Epoch 1
+2024-10-30 12:38:42,198 train INFO: 
+Epoch 1
+2024-10-30 12:39:51,198 train INFO: 
+Epoch 1
+2024-10-30 12:42:35,123 train INFO: Train loss: 0.97211, learning rate: 0.000200
+2024-10-30 12:52:34,578 train INFO: 
+Epoch 1
+2024-10-30 12:55:12,653 train INFO: Train loss: 0.97211, learning rate: 0.000200
+2024-10-30 12:55:56,979 train INFO: Validation dice: 0.011620, val loss:0.972909 best: 0.000000
+
+2024-10-30 12:55:57,074 train INFO: 
+Epoch 2
+2024-10-30 12:58:31,370 train INFO: Train loss: 0.96617, learning rate: 0.000400
+2024-10-30 12:59:09,528 train INFO: Validation dice: 0.070687, val loss:0.968939 best: 0.011620
+
+2024-10-30 12:59:09,637 train INFO: 
+Epoch 3
+2024-10-30 13:01:42,323 train INFO: Train loss: 0.94494, learning rate: 0.000600
+2024-10-30 13:02:24,968 train INFO: Validation dice: 0.102426, val loss:0.967169 best: 0.070687
+
+2024-10-30 13:02:25,073 train INFO: 
+Epoch 4
+2024-10-30 13:04:58,594 train INFO: Train loss: 0.91022, learning rate: 0.000800
+2024-10-30 13:05:40,433 train INFO: Validation dice: 0.133326, val loss:0.969784 best: 0.102426
+
+2024-10-30 13:05:40,543 train INFO: 
+Epoch 5
+2024-10-30 13:08:12,667 train INFO: Train loss: 0.85690, learning rate: 0.001000
+2024-10-30 13:08:54,136 train INFO: Validation dice: 0.188058, val loss:0.967620 best: 0.133326
+
+2024-10-30 13:08:54,246 train INFO: 
+Epoch 6
+2024-10-30 13:11:26,122 train INFO: Train loss: 0.79146, learning rate: 0.001000
+2024-10-30 13:12:07,026 train INFO: Validation dice: 0.241381, val loss:0.968505 best: 0.188058
+
+2024-10-30 13:12:07,121 train INFO: 
+Epoch 7
+2024-10-30 13:14:38,917 train INFO: Train loss: 0.73971, learning rate: 0.001000
+2024-10-30 13:15:16,388 train INFO: Validation dice: 0.265416, val loss:0.968507 best: 0.241381
+
+2024-10-30 13:15:16,496 train INFO: 
+Epoch 8
+2024-10-30 13:17:48,861 train INFO: Train loss: 0.69698, learning rate: 0.001000
+2024-10-30 13:18:38,603 train INFO: Validation dice: 0.334933, val loss:0.968186 best: 0.265416
+
+2024-10-30 13:18:38,776 train INFO: 
+Epoch 9
+2024-10-30 13:22:43,593 train INFO: Train loss: 0.66270, learning rate: 0.001000
+2024-10-30 13:23:42,620 train INFO: Validation dice: 0.337380, val loss:0.967939 best: 0.334933
+
+2024-10-30 13:23:42,808 train INFO: 
+Epoch 10
+2024-10-30 13:27:03,486 train INFO: Train loss: 0.63042, learning rate: 0.001000
+2024-10-30 13:27:41,620 train INFO: Validation dice: 0.351457, val loss:0.968379 best: 0.337380
+
+2024-10-30 13:27:41,731 train INFO: 
+Epoch 11
+2024-10-30 13:30:15,043 train INFO: Train loss: 0.57013, learning rate: 0.001000
+2024-10-30 13:30:53,403 train INFO: Validation dice: 0.399183, val loss:0.967609 best: 0.351457
+
+2024-10-30 13:30:53,496 train INFO: 
+Epoch 12
+2024-10-30 13:33:23,036 train INFO: Train loss: 0.53873, learning rate: 0.001000
+2024-10-30 13:34:00,248 train INFO: Validation dice: 0.479508, val loss:0.966159 best: 0.399183
+
+2024-10-30 13:34:00,346 train INFO: 
+Epoch 13
+2024-10-30 13:36:30,235 train INFO: Train loss: 0.49803, learning rate: 0.001000
+2024-10-30 13:37:07,017 train INFO: Validation dice: 0.504240, val loss:0.967120 best: 0.479508
+
+2024-10-30 13:37:07,143 train INFO: 
+Epoch 14
+2024-10-30 13:39:35,822 train INFO: Train loss: 0.46357, learning rate: 0.001000
+2024-10-30 13:40:13,008 train INFO: Validation dice: 0.479619, val loss:0.967517 best: 0.504240
+
+2024-10-30 13:40:13,068 train INFO: 
+Epoch 15
+2024-10-30 13:42:43,159 train INFO: Train loss: 0.44931, learning rate: 0.001000
+2024-10-30 13:43:20,290 train INFO: Validation dice: 0.498434, val loss:0.967105 best: 0.504240
+
+2024-10-30 13:43:20,350 train INFO: 
+Epoch 16
+2024-10-30 13:45:49,505 train INFO: Train loss: 0.42193, learning rate: 0.001000
+2024-10-30 13:46:26,651 train INFO: Validation dice: 0.553511, val loss:0.966442 best: 0.504240
+
+2024-10-30 13:46:26,762 train INFO: 
+Epoch 17
+2024-10-30 13:48:55,365 train INFO: Train loss: 0.40612, learning rate: 0.001000
+2024-10-30 13:49:32,468 train INFO: Validation dice: 0.576670, val loss:0.966158 best: 0.553511
+
+2024-10-30 13:49:32,562 train INFO: 
+Epoch 18
+2024-10-30 13:52:01,415 train INFO: Train loss: 0.38111, learning rate: 0.001000
+2024-10-30 13:52:38,811 train INFO: Validation dice: 0.564586, val loss:0.966448 best: 0.576670
+
+2024-10-30 13:52:38,880 train INFO: 
+Epoch 19
+2024-10-30 13:55:08,866 train INFO: Train loss: 0.36957, learning rate: 0.001000
+2024-10-30 13:55:46,214 train INFO: Validation dice: 0.556796, val loss:0.966574 best: 0.576670
+
+2024-10-30 13:55:46,276 train INFO: 
+Epoch 20
+2024-10-30 13:58:14,831 train INFO: Train loss: 0.35427, learning rate: 0.001000
+2024-10-30 13:58:52,031 train INFO: Validation dice: 0.590730, val loss:0.966179 best: 0.576670
+
+2024-10-30 13:58:52,139 train INFO: 
+Epoch 21
+2024-10-30 14:01:21,329 train INFO: Train loss: 0.34560, learning rate: 0.001000
+2024-10-30 14:01:58,071 train INFO: Validation dice: 0.640278, val loss:0.965848 best: 0.590730
+
+2024-10-30 14:01:58,196 train INFO: 
+Epoch 22
+2024-10-30 14:04:27,676 train INFO: Train loss: 0.33352, learning rate: 0.001000
+2024-10-30 14:05:04,808 train INFO: Validation dice: 0.651781, val loss:0.965321 best: 0.640278
+
+2024-10-30 14:05:04,901 train INFO: 
+Epoch 23
+2024-10-30 14:07:33,592 train INFO: Train loss: 0.31352, learning rate: 0.001000
+2024-10-30 14:08:10,291 train INFO: Validation dice: 0.652519, val loss:0.965882 best: 0.651781
+
+2024-10-30 14:08:10,385 train INFO: 
+Epoch 24
+2024-10-30 14:10:38,318 train INFO: Train loss: 0.29948, learning rate: 0.001000
+2024-10-30 14:11:15,435 train INFO: Validation dice: 0.675346, val loss:0.965271 best: 0.652519
+
+2024-10-30 14:11:15,546 train INFO: 
+Epoch 25
+2024-10-30 14:13:44,516 train INFO: Train loss: 0.29065, learning rate: 0.001000
+2024-10-30 14:14:21,541 train INFO: Validation dice: 0.697081, val loss:0.964969 best: 0.675346
+
+2024-10-30 14:14:21,653 train INFO: 
+Epoch 26
+2024-10-30 14:16:50,218 train INFO: Train loss: 0.27433, learning rate: 0.001000
+2024-10-30 14:17:27,376 train INFO: Validation dice: 0.682111, val loss:0.965556 best: 0.697081
+
+2024-10-30 14:17:27,442 train INFO: 
+Epoch 27
+2024-10-30 14:19:56,595 train INFO: Train loss: 0.27396, learning rate: 0.001000
+2024-10-30 14:20:33,791 train INFO: Validation dice: 0.700394, val loss:0.965142 best: 0.697081
+
+2024-10-30 14:20:33,884 train INFO: 
+Epoch 28
+2024-10-30 14:23:03,140 train INFO: Train loss: 0.27915, learning rate: 0.001000
+2024-10-30 14:23:40,484 train INFO: Validation dice: 0.701142, val loss:0.965173 best: 0.700394
+
+2024-10-30 14:23:40,592 train INFO: 
+Epoch 29
+2024-10-30 14:26:07,452 train INFO: Train loss: 0.26298, learning rate: 0.001000
+2024-10-30 14:26:44,637 train INFO: Validation dice: 0.706319, val loss:0.965104 best: 0.701142
+
+2024-10-30 14:26:44,745 train INFO: 
+Epoch 30
+2024-10-30 14:29:13,218 train INFO: Train loss: 0.26143, learning rate: 0.001000
+2024-10-30 14:29:50,171 train INFO: Validation dice: 0.701333, val loss:0.965171 best: 0.706319
+
+2024-10-30 14:29:50,240 train INFO: 
+Epoch 31
+2024-10-30 14:32:18,958 train INFO: Train loss: 0.26314, learning rate: 0.001000
+2024-10-30 14:32:56,148 train INFO: Validation dice: 0.683037, val loss:0.965174 best: 0.706319
+
+2024-10-30 14:32:56,214 train INFO: 
+Epoch 32
+2024-10-30 14:35:24,881 train INFO: Train loss: 0.25693, learning rate: 0.001000
+2024-10-30 14:36:01,972 train INFO: Validation dice: 0.701019, val loss:0.965180 best: 0.706319
+
+2024-10-30 14:36:02,024 train INFO: 
+Epoch 33
+2024-10-30 14:38:31,695 train INFO: Train loss: 0.24647, learning rate: 0.001000
+2024-10-30 14:39:08,676 train INFO: Validation dice: 0.694079, val loss:0.965217 best: 0.706319
+
+2024-10-30 14:39:08,736 train INFO: 
+Epoch 34
+2024-10-30 14:41:36,751 train INFO: Train loss: 0.23739, learning rate: 0.001000
+2024-10-30 14:42:13,255 train INFO: Validation dice: 0.728428, val loss:0.964901 best: 0.706319
+
+2024-10-30 14:42:13,352 train INFO: 
+Epoch 35
+2024-10-30 14:44:42,021 train INFO: Train loss: 0.23148, learning rate: 0.001000
+2024-10-30 14:45:19,156 train INFO: Validation dice: 0.732162, val loss:0.964788 best: 0.728428
+
+2024-10-30 14:45:19,265 train INFO: 
+Epoch 36
+2024-10-30 14:47:48,369 train INFO: Train loss: 0.23070, learning rate: 0.001000
+2024-10-30 14:48:25,300 train INFO: Validation dice: 0.716110, val loss:0.964857 best: 0.732162
+
+2024-10-30 14:48:25,360 train INFO: 
+Epoch 37
+2024-10-30 14:50:53,385 train INFO: Train loss: 0.23034, learning rate: 0.001000
+2024-10-30 14:51:30,637 train INFO: Validation dice: 0.705145, val loss:0.965223 best: 0.732162
+
+2024-10-30 14:51:30,711 train INFO: 
+Epoch 38
+2024-10-30 14:53:59,622 train INFO: Train loss: 0.22504, learning rate: 0.001000
+2024-10-30 14:54:36,863 train INFO: Validation dice: 0.736454, val loss:0.964842 best: 0.732162
+
+2024-10-30 14:54:36,947 train INFO: 
+Epoch 39
+2024-10-30 14:57:05,642 train INFO: Train loss: 0.21627, learning rate: 0.001000
+2024-10-30 14:57:42,948 train INFO: Validation dice: 0.740945, val loss:0.964373 best: 0.736454
+
+2024-10-30 14:57:43,040 train INFO: 
+Epoch 40
+2024-10-30 15:00:11,151 train INFO: Train loss: 0.20948, learning rate: 0.001000
+2024-10-30 15:00:48,490 train INFO: Validation dice: 0.740466, val loss:0.964656 best: 0.740945
+
+2024-10-30 15:00:48,549 train INFO: 
+Epoch 41
+2024-10-30 15:03:17,341 train INFO: Train loss: 0.20539, learning rate: 0.001000
+2024-10-30 15:03:54,354 train INFO: Validation dice: 0.756786, val loss:0.964250 best: 0.740945
+
+2024-10-30 15:03:54,462 train INFO: 
+Epoch 42
+2024-10-30 15:06:24,180 train INFO: Train loss: 0.20001, learning rate: 0.001000
+2024-10-30 15:07:01,284 train INFO: Validation dice: 0.759152, val loss:0.964306 best: 0.756786
+
+2024-10-30 15:07:01,393 train INFO: 
+Epoch 43
+2024-10-30 15:09:30,701 train INFO: Train loss: 0.19461, learning rate: 0.001000
+2024-10-30 15:10:07,598 train INFO: Validation dice: 0.757705, val loss:0.964275 best: 0.759152
+
+2024-10-30 15:10:07,657 train INFO: 
+Epoch 44
+2024-10-30 15:12:37,274 train INFO: Train loss: 0.18700, learning rate: 0.001000
+2024-10-30 15:13:14,116 train INFO: Validation dice: 0.776160, val loss:0.963992 best: 0.759152
+
+2024-10-30 15:13:14,229 train INFO: 
+Epoch 45
+2024-10-30 15:15:43,676 train INFO: Train loss: 0.18782, learning rate: 0.001000
+2024-10-30 15:16:21,025 train INFO: Validation dice: 0.743055, val loss:0.964431 best: 0.776160
+
+2024-10-30 15:16:21,076 train INFO: 
+Epoch 46
+2024-10-30 15:18:49,599 train INFO: Train loss: 0.19122, learning rate: 0.001000
+2024-10-30 15:19:26,473 train INFO: Validation dice: 0.754658, val loss:0.964359 best: 0.776160
+
+2024-10-30 15:19:26,532 train INFO: 
+Epoch 47
+2024-10-30 15:21:54,902 train INFO: Train loss: 0.18730, learning rate: 0.001000
+2024-10-30 15:22:31,982 train INFO: Validation dice: 0.771923, val loss:0.964025 best: 0.776160
+
+2024-10-30 15:22:32,041 train INFO: 
+Epoch 48
+2024-10-30 15:25:00,842 train INFO: Train loss: 0.18586, learning rate: 0.001000
+2024-10-30 15:25:37,972 train INFO: Validation dice: 0.711901, val loss:0.965088 best: 0.776160
+
+2024-10-30 15:25:38,030 train INFO: 
+Epoch 49
+2024-10-30 15:28:05,589 train INFO: Train loss: 0.18732, learning rate: 0.001000
+2024-10-30 15:28:43,355 train INFO: Validation dice: 0.764884, val loss:0.964046 best: 0.776160
+
+2024-10-30 15:28:43,413 train INFO: 
+Epoch 50
+2024-10-30 15:31:11,748 train INFO: Train loss: 0.17642, learning rate: 0.001000
+2024-10-30 15:31:49,266 train INFO: Validation dice: 0.777828, val loss:0.963819 best: 0.776160
+
+2024-10-30 15:31:49,357 train INFO: 
+Epoch 51
+2024-10-30 15:34:18,873 train INFO: Train loss: 0.17402, learning rate: 0.001000
+2024-10-30 15:34:56,196 train INFO: Validation dice: 0.770320, val loss:0.964193 best: 0.777828
+
+2024-10-30 15:34:56,254 train INFO: 
+Epoch 52
+2024-10-30 15:37:24,714 train INFO: Train loss: 0.16945, learning rate: 0.001000
+2024-10-30 15:38:01,802 train INFO: Validation dice: 0.779662, val loss:0.963808 best: 0.777828
+
+2024-10-30 15:38:01,911 train INFO: 
+Epoch 53
+2024-10-30 15:40:30,687 train INFO: Train loss: 0.16392, learning rate: 0.001000
+2024-10-30 15:41:07,640 train INFO: Validation dice: 0.784194, val loss:0.964062 best: 0.779662
+
+2024-10-30 15:41:07,763 train INFO: 
+Epoch 54
+2024-10-30 15:43:36,635 train INFO: Train loss: 0.16281, learning rate: 0.001000
+2024-10-30 15:44:13,668 train INFO: Validation dice: 0.790262, val loss:0.963510 best: 0.784194
+
+2024-10-30 15:44:13,777 train INFO: 
+Epoch 55
+2024-10-30 15:46:42,739 train INFO: Train loss: 0.16437, learning rate: 0.001000
+2024-10-30 15:47:19,770 train INFO: Validation dice: 0.774303, val loss:0.963788 best: 0.790262
+
+2024-10-30 15:47:19,844 train INFO: 
+Epoch 56
+2024-10-30 15:49:49,218 train INFO: Train loss: 0.15974, learning rate: 0.001000
+2024-10-30 15:50:26,218 train INFO: Validation dice: 0.785125, val loss:0.963721 best: 0.790262
+
+2024-10-30 15:50:26,277 train INFO: 
+Epoch 57
+2024-10-30 15:52:55,029 train INFO: Train loss: 0.15558, learning rate: 0.001000
+2024-10-30 15:53:32,391 train INFO: Validation dice: 0.796860, val loss:0.963234 best: 0.790262
+
+2024-10-30 15:53:32,513 train INFO: 
+Epoch 58
+2024-10-30 15:56:00,648 train INFO: Train loss: 0.15705, learning rate: 0.001000
+2024-10-30 15:56:38,089 train INFO: Validation dice: 0.774526, val loss:0.964247 best: 0.796860
+
+2024-10-30 15:56:38,154 train INFO: 
+Epoch 59
+2024-10-30 15:59:06,903 train INFO: Train loss: 0.15394, learning rate: 0.001000
+2024-10-30 15:59:44,113 train INFO: Validation dice: 0.783753, val loss:0.963590 best: 0.796860
+
+2024-10-30 15:59:44,187 train INFO: 
+Epoch 60
+2024-10-30 16:02:12,621 train INFO: Train loss: 0.15097, learning rate: 0.001000
+2024-10-30 16:02:49,683 train INFO: Validation dice: 0.796517, val loss:0.963362 best: 0.796860
+
+2024-10-30 16:02:49,742 train INFO: 
+Epoch 61
+2024-10-30 16:05:19,295 train INFO: Train loss: 0.14934, learning rate: 0.001000
+2024-10-30 16:05:56,290 train INFO: Validation dice: 0.784453, val loss:0.963437 best: 0.796860
+
+2024-10-30 16:05:56,350 train INFO: 
+Epoch 62
+2024-10-30 16:08:24,327 train INFO: Train loss: 0.14972, learning rate: 0.001000
+2024-10-30 16:09:01,511 train INFO: Validation dice: 0.792477, val loss:0.963321 best: 0.796860
+
+2024-10-30 16:09:01,570 train INFO: 
+Epoch 63
+2024-10-30 16:11:30,979 train INFO: Train loss: 0.14388, learning rate: 0.001000
+2024-10-30 16:12:07,910 train INFO: Validation dice: 0.789293, val loss:0.963443 best: 0.796860
+
+2024-10-30 16:12:07,970 train INFO: 
+Epoch 64
+2024-10-30 16:14:37,960 train INFO: Train loss: 0.15126, learning rate: 0.001000
+2024-10-30 16:15:15,469 train INFO: Validation dice: 0.769663, val loss:0.963960 best: 0.796860
+
+2024-10-30 16:15:15,544 train INFO: 
+Epoch 65
+2024-10-30 16:17:45,792 train INFO: Train loss: 0.14678, learning rate: 0.001000
+2024-10-30 16:18:23,087 train INFO: Validation dice: 0.790906, val loss:0.963739 best: 0.796860
+
+2024-10-30 16:18:23,147 train INFO: 
+Epoch 66
+2024-10-30 16:20:52,539 train INFO: Train loss: 0.14232, learning rate: 0.001000
+2024-10-30 16:21:30,227 train INFO: Validation dice: 0.782687, val loss:0.963839 best: 0.796860
+
+2024-10-30 16:21:30,288 train INFO: 
+Epoch 67
+2024-10-30 16:23:59,155 train INFO: Train loss: 0.14472, learning rate: 0.001000
+2024-10-30 16:24:36,197 train INFO: Validation dice: 0.785824, val loss:0.963528 best: 0.796860
+
+2024-10-30 16:24:36,263 train INFO: 
+Epoch 68
+2024-10-30 16:27:05,560 train INFO: Train loss: 0.15204, learning rate: 0.001000
+2024-10-30 16:27:42,930 train INFO: Validation dice: 0.779712, val loss:0.963705 best: 0.796860
+
+2024-10-30 16:27:43,005 train INFO: 
+Epoch 69
+2024-10-30 16:30:12,176 train INFO: Train loss: 0.14056, learning rate: 0.001000
+2024-10-30 16:30:49,349 train INFO: Validation dice: 0.802526, val loss:0.963309 best: 0.796860
+
+2024-10-30 16:30:49,456 train INFO: 
+Epoch 70
+2024-10-30 16:33:19,196 train INFO: Train loss: 0.13756, learning rate: 0.001000
+2024-10-30 16:33:56,379 train INFO: Validation dice: 0.795285, val loss:0.963616 best: 0.802526
+
+2024-10-30 16:33:56,455 train INFO: 
+Epoch 71
+2024-10-30 16:36:25,422 train INFO: Train loss: 0.13634, learning rate: 0.001000
+2024-10-30 16:37:02,446 train INFO: Validation dice: 0.789461, val loss:0.963784 best: 0.802526
+
+2024-10-30 16:37:02,520 train INFO: 
+Epoch 72
+2024-10-30 16:39:31,931 train INFO: Train loss: 0.13786, learning rate: 0.001000
+2024-10-30 16:40:09,151 train INFO: Validation dice: 0.799441, val loss:0.963649 best: 0.802526
+
+2024-10-30 16:40:09,212 train INFO: 
+Epoch 73
+2024-10-30 16:42:38,330 train INFO: Train loss: 0.13347, learning rate: 0.001000
+2024-10-30 16:43:15,415 train INFO: Validation dice: 0.806248, val loss:0.963614 best: 0.802526
+
+2024-10-30 16:43:15,508 train INFO: 
+Epoch 74
+2024-10-30 16:45:44,880 train INFO: Train loss: 0.13020, learning rate: 0.001000
+2024-10-30 16:46:22,226 train INFO: Validation dice: 0.802029, val loss:0.963594 best: 0.806248
+
+2024-10-30 16:46:22,271 train INFO: 
+Epoch 75
+2024-10-30 16:48:50,498 train INFO: Train loss: 0.13222, learning rate: 0.001000
+2024-10-30 16:49:27,844 train INFO: Validation dice: 0.805019, val loss:0.963344 best: 0.806248
+
+2024-10-30 16:49:27,903 train INFO: 
+Epoch 76
+2024-10-30 16:51:56,562 train INFO: Train loss: 0.13131, learning rate: 0.001000
+2024-10-30 16:52:34,241 train INFO: Validation dice: 0.793997, val loss:0.963094 best: 0.806248
+
+2024-10-30 16:52:34,300 train INFO: 
+Epoch 77
+2024-10-30 16:55:02,519 train INFO: Train loss: 0.13907, learning rate: 0.001000
+2024-10-30 16:55:39,615 train INFO: Validation dice: 0.766219, val loss:0.963789 best: 0.806248
+
+2024-10-30 16:55:39,673 train INFO: 
+Epoch 78
+2024-10-30 16:58:09,412 train INFO: Train loss: 0.14667, learning rate: 0.001000
+2024-10-30 16:58:46,730 train INFO: Validation dice: 0.738788, val loss:0.964160 best: 0.806248
+
+2024-10-30 16:58:46,789 train INFO: 
+Epoch 79
+2024-10-30 17:01:16,340 train INFO: Train loss: 0.13635, learning rate: 0.001000
+2024-10-30 17:01:53,424 train INFO: Validation dice: 0.798055, val loss:0.963322 best: 0.806248
+
+2024-10-30 17:01:53,482 train INFO: 
+Epoch 80
+2024-10-30 17:04:24,102 train INFO: Train loss: 0.13004, learning rate: 0.001000
+2024-10-30 17:05:01,521 train INFO: Validation dice: 0.800995, val loss:0.963733 best: 0.806248
+
+2024-10-30 17:05:01,571 train INFO: 
+Epoch 81
+2024-10-30 17:07:31,657 train INFO: Train loss: 0.13075, learning rate: 0.001000
+2024-10-30 17:08:08,402 train INFO: Validation dice: 0.811862, val loss:0.963314 best: 0.806248
+
+2024-10-30 17:08:08,495 train INFO: 
+Epoch 82
+2024-10-30 17:10:37,561 train INFO: Train loss: 0.12221, learning rate: 0.001000
+2024-10-30 17:11:14,589 train INFO: Validation dice: 0.813629, val loss:0.963257 best: 0.811862
+
+2024-10-30 17:11:14,696 train INFO: 
+Epoch 83
+2024-10-30 17:13:43,236 train INFO: Train loss: 0.12173, learning rate: 0.001000
+2024-10-30 17:14:20,491 train INFO: Validation dice: 0.802747, val loss:0.963228 best: 0.813629
+
+2024-10-30 17:14:20,550 train INFO: 
+Epoch 84
+2024-10-30 17:16:49,459 train INFO: Train loss: 0.12658, learning rate: 0.001000
+2024-10-30 17:17:27,095 train INFO: Validation dice: 0.803708, val loss:0.963365 best: 0.813629
+
+2024-10-30 17:17:27,154 train INFO: 
+Epoch 85
+2024-10-30 17:19:55,348 train INFO: Train loss: 0.12504, learning rate: 0.001000
+2024-10-30 17:20:32,965 train INFO: Validation dice: 0.799126, val loss:0.963526 best: 0.813629
+
+2024-10-30 17:20:33,023 train INFO: 
+Epoch 86
+2024-10-30 17:23:03,095 train INFO: Train loss: 0.12275, learning rate: 0.001000
+2024-10-30 17:23:40,603 train INFO: Validation dice: 0.805281, val loss:0.963396 best: 0.813629
+
+2024-10-30 17:23:40,661 train INFO: 
+Epoch 87
+2024-10-30 17:26:08,679 train INFO: Train loss: 0.12171, learning rate: 0.001000
+2024-10-30 17:26:46,275 train INFO: Validation dice: 0.798972, val loss:0.963181 best: 0.813629
+
+2024-10-30 17:26:46,335 train INFO: 
+Epoch 88
+2024-10-30 17:29:16,598 train INFO: Train loss: 0.11911, learning rate: 0.001000
+2024-10-30 17:29:54,052 train INFO: Validation dice: 0.807786, val loss:0.963442 best: 0.813629
+
+2024-10-30 17:29:54,102 train INFO: 
+Epoch 89
+2024-10-30 17:32:23,280 train INFO: Train loss: 0.11915, learning rate: 0.001000
+2024-10-30 17:33:00,506 train INFO: Validation dice: 0.810236, val loss:0.963425 best: 0.813629
+
+2024-10-30 17:33:00,564 train INFO: 
+Epoch 90
+2024-10-30 17:35:31,133 train INFO: Train loss: 0.12094, learning rate: 0.001000
+2024-10-30 17:36:08,202 train INFO: Validation dice: 0.805813, val loss:0.963000 best: 0.813629
+
+2024-10-30 17:36:08,260 train INFO: 
+Epoch 91
+2024-10-30 17:38:37,702 train INFO: Train loss: 0.11830, learning rate: 0.001000
+2024-10-30 17:39:14,933 train INFO: Validation dice: 0.803144, val loss:0.963534 best: 0.813629
+
+2024-10-30 17:39:14,983 train INFO: 
+Epoch 92
+2024-10-30 17:41:45,256 train INFO: Train loss: 0.11722, learning rate: 0.001000
+2024-10-30 17:42:22,386 train INFO: Validation dice: 0.788591, val loss:0.963877 best: 0.813629
+
+2024-10-30 17:42:22,452 train INFO: 
+Epoch 93
+2024-10-30 17:44:52,370 train INFO: Train loss: 0.12224, learning rate: 0.001000
+2024-10-30 17:45:30,074 train INFO: Validation dice: 0.774222, val loss:0.963922 best: 0.813629
+
+2024-10-30 17:45:30,133 train INFO: 
+Epoch 94
+2024-10-30 17:47:58,942 train INFO: Train loss: 0.12249, learning rate: 0.001000
+2024-10-30 17:48:36,286 train INFO: Validation dice: 0.788824, val loss:0.963262 best: 0.813629
+
+2024-10-30 17:48:36,346 train INFO: 
+Epoch 95
+2024-10-30 17:51:05,013 train INFO: Train loss: 0.12313, learning rate: 0.001000
+2024-10-30 17:51:42,292 train INFO: Validation dice: 0.787461, val loss:0.963678 best: 0.813629
+
+2024-10-30 17:51:42,350 train INFO: 
+Epoch 96
+2024-10-30 17:54:12,593 train INFO: Train loss: 0.11860, learning rate: 0.001000
+2024-10-30 17:54:49,652 train INFO: Validation dice: 0.813359, val loss:0.963346 best: 0.813629
+
+2024-10-30 17:54:49,706 train INFO: 
+Epoch 97
+2024-10-30 17:57:19,386 train INFO: Train loss: 0.11967, learning rate: 0.001000
+2024-10-30 17:57:56,894 train INFO: Validation dice: 0.804242, val loss:0.963574 best: 0.813629
+
+2024-10-30 17:57:56,952 train INFO: 
+Epoch 98
+2024-10-30 18:00:26,879 train INFO: Train loss: 0.11623, learning rate: 0.001000
+2024-10-30 18:01:03,853 train INFO: Validation dice: 0.802257, val loss:0.963525 best: 0.813629
+
+2024-10-30 18:01:03,927 train INFO: 
+Epoch 99
+2024-10-30 18:03:34,545 train INFO: Train loss: 0.11507, learning rate: 0.001000
+2024-10-30 18:04:11,745 train INFO: Validation dice: 0.807608, val loss:0.963373 best: 0.813629
+
+2024-10-30 18:04:11,803 train INFO: 
+Epoch 100
+2024-10-30 18:06:41,335 train INFO: Train loss: 0.11158, learning rate: 0.001000
+2024-10-30 18:07:18,611 train INFO: Validation dice: 0.806634, val loss:0.963023 best: 0.813629
+
+2024-10-30 18:07:18,661 train INFO: 
+Epoch 101
+2024-10-30 18:09:48,889 train INFO: Train loss: 0.11076, learning rate: 0.001000
+2024-10-30 18:10:26,174 train INFO: Validation dice: 0.809037, val loss:0.963123 best: 0.813629
+
+2024-10-30 18:10:26,232 train INFO: 
+Epoch 102
+2024-10-30 18:12:56,301 train INFO: Train loss: 0.11345, learning rate: 0.001000
+2024-10-30 18:13:33,688 train INFO: Validation dice: 0.797217, val loss:0.963801 best: 0.813629
+
+2024-10-30 18:13:33,747 train INFO: 
+Epoch 103
+2024-10-30 18:16:01,686 train INFO: Train loss: 0.11111, learning rate: 0.001000
+2024-10-30 18:16:39,393 train INFO: Validation dice: 0.806902, val loss:0.963343 best: 0.813629
+
+2024-10-30 18:16:39,436 train INFO: 
+Epoch 104
+2024-10-30 18:19:07,780 train INFO: Train loss: 0.11160, learning rate: 0.001000
+2024-10-30 18:19:44,830 train INFO: Validation dice: 0.804055, val loss:0.963072 best: 0.813629
+
+2024-10-30 18:19:44,890 train INFO: 
+Epoch 105
+2024-10-30 18:22:12,876 train INFO: Train loss: 0.11525, learning rate: 0.001000
+2024-10-30 18:22:50,071 train INFO: Validation dice: 0.801666, val loss:0.963484 best: 0.813629
+
+2024-10-30 18:22:50,130 train INFO: 
+Epoch 106
+2024-10-30 18:25:18,025 train INFO: Train loss: 0.11162, learning rate: 0.001000
+2024-10-30 18:25:54,905 train INFO: Validation dice: 0.807879, val loss:0.963027 best: 0.813629
+
+2024-10-30 18:25:54,964 train INFO: 
+Epoch 107
+2024-10-30 18:28:23,588 train INFO: Train loss: 0.10941, learning rate: 0.001000
+2024-10-30 18:29:00,486 train INFO: Validation dice: 0.808351, val loss:0.963105 best: 0.813629
+
+2024-10-30 18:29:00,551 train INFO: 
+Epoch 108
+2024-10-30 18:31:27,255 train INFO: Train loss: 0.10509, learning rate: 0.001000
+2024-10-30 18:32:03,669 train INFO: Validation dice: 0.813001, val loss:0.963309 best: 0.813629
+
+2024-10-30 18:32:03,728 train INFO: 
+Epoch 109
+2024-10-30 18:34:30,938 train INFO: Train loss: 0.10340, learning rate: 0.001000
+2024-10-30 18:35:07,861 train INFO: Validation dice: 0.813274, val loss:0.963268 best: 0.813629
+
+2024-10-30 18:35:07,919 train INFO: 
+Epoch 110
+2024-10-30 18:37:36,214 train INFO: Train loss: 0.10234, learning rate: 0.001000
+2024-10-30 18:38:13,278 train INFO: Validation dice: 0.816161, val loss:0.962866 best: 0.813629
+
+2024-10-30 18:38:13,385 train INFO: 
+Epoch 111
+2024-10-30 18:40:43,208 train INFO: Train loss: 0.10406, learning rate: 0.001000
+2024-10-30 18:41:20,640 train INFO: Validation dice: 0.812304, val loss:0.963267 best: 0.816161
+
+2024-10-30 18:41:20,700 train INFO: 
+Epoch 112
+2024-10-30 18:43:50,927 train INFO: Train loss: 0.10592, learning rate: 0.001000
+2024-10-30 18:44:28,400 train INFO: Validation dice: 0.807764, val loss:0.963370 best: 0.816161
+
+2024-10-30 18:44:28,458 train INFO: 
+Epoch 113
+2024-10-30 18:46:57,748 train INFO: Train loss: 0.10265, learning rate: 0.001000
+2024-10-30 18:47:34,827 train INFO: Validation dice: 0.814534, val loss:0.963085 best: 0.816161
+
+2024-10-30 18:47:34,886 train INFO: 
+Epoch 114
+2024-10-30 18:50:03,352 train INFO: Train loss: 0.10409, learning rate: 0.001000
+2024-10-30 18:50:40,652 train INFO: Validation dice: 0.807915, val loss:0.963072 best: 0.816161
+
+2024-10-30 18:50:40,702 train INFO: 
+Epoch 115
+2024-10-30 18:53:09,333 train INFO: Train loss: 0.10409, learning rate: 0.001000
+2024-10-30 18:53:46,898 train INFO: Validation dice: 0.804337, val loss:0.963694 best: 0.816161
+
+2024-10-30 18:53:46,968 train INFO: 
+Epoch 116
+2024-10-30 18:56:14,796 train INFO: Train loss: 0.11120, learning rate: 0.001000
+2024-10-30 18:56:51,781 train INFO: Validation dice: 0.815046, val loss:0.963159 best: 0.816161
+
+2024-10-30 18:56:51,832 train INFO: 
+Epoch 117
+2024-10-30 18:59:21,059 train INFO: Train loss: 0.10885, learning rate: 0.001000
+2024-10-30 18:59:58,314 train INFO: Validation dice: 0.800567, val loss:0.962810 best: 0.816161
+
+2024-10-30 18:59:58,374 train INFO: 
+Epoch 118
+2024-10-30 19:02:27,455 train INFO: Train loss: 0.10416, learning rate: 0.001000
+2024-10-30 19:03:04,557 train INFO: Validation dice: 0.825671, val loss:0.962991 best: 0.816161
+
+2024-10-30 19:03:04,650 train INFO: 
+Epoch 119
+2024-10-30 19:05:34,023 train INFO: Train loss: 0.09928, learning rate: 0.001000
+2024-10-30 19:06:10,847 train INFO: Validation dice: 0.814150, val loss:0.962999 best: 0.825671
+
+2024-10-30 19:06:10,907 train INFO: 
+Epoch 120
+2024-10-30 19:08:39,877 train INFO: Train loss: 0.09862, learning rate: 0.001000
+2024-10-30 19:09:16,956 train INFO: Validation dice: 0.818153, val loss:0.963166 best: 0.825671
+
+2024-10-30 19:09:17,016 train INFO: 
+Epoch 121
+2024-10-30 19:11:45,851 train INFO: Train loss: 0.09917, learning rate: 0.001000
+2024-10-30 19:12:22,953 train INFO: Validation dice: 0.809175, val loss:0.963421 best: 0.825671
+
+2024-10-30 19:12:23,012 train INFO: 
+Epoch 122
+2024-10-30 19:14:51,521 train INFO: Train loss: 0.10132, learning rate: 0.001000
+2024-10-30 19:15:28,760 train INFO: Validation dice: 0.802232, val loss:0.963900 best: 0.825671
+
+2024-10-30 19:15:28,811 train INFO: 
+Epoch 123
+2024-10-30 19:17:57,994 train INFO: Train loss: 0.10167, learning rate: 0.001000
+2024-10-30 19:18:35,092 train INFO: Validation dice: 0.809102, val loss:0.963419 best: 0.825671
+
+2024-10-30 19:18:35,150 train INFO: 
+Epoch 124
+2024-10-30 19:21:03,714 train INFO: Train loss: 0.10296, learning rate: 0.001000
+2024-10-30 19:21:41,172 train INFO: Validation dice: 0.805661, val loss:0.962891 best: 0.825671
+
+2024-10-30 19:21:41,231 train INFO: 
+Epoch 125
+2024-10-30 19:24:09,400 train INFO: Train loss: 0.10293, learning rate: 0.001000
+2024-10-30 19:24:46,295 train INFO: Validation dice: 0.804904, val loss:0.963350 best: 0.825671
+
+2024-10-30 19:24:46,355 train INFO: 
+Epoch 126
+2024-10-30 19:27:13,892 train INFO: Train loss: 0.10179, learning rate: 0.001000
+2024-10-30 19:27:51,388 train INFO: Validation dice: 0.789452, val loss:0.963472 best: 0.825671
+
+2024-10-30 19:27:51,448 train INFO: 
+Epoch 127
+2024-10-30 19:30:19,649 train INFO: Train loss: 0.09791, learning rate: 0.001000
+2024-10-30 19:30:56,350 train INFO: Validation dice: 0.811256, val loss:0.962958 best: 0.825671
+
+2024-10-30 19:30:56,412 train INFO: 
+Epoch 128
+2024-10-30 19:33:25,304 train INFO: Train loss: 0.09776, learning rate: 0.001000
+2024-10-30 19:34:02,412 train INFO: Validation dice: 0.812465, val loss:0.963080 best: 0.825671
+
+2024-10-30 19:34:02,470 train INFO: 
+Epoch 129
+2024-10-30 19:36:30,785 train INFO: Train loss: 0.09751, learning rate: 0.001000
+2024-10-30 19:37:07,787 train INFO: Validation dice: 0.801410, val loss:0.963126 best: 0.825671
+
+2024-10-30 19:37:07,847 train INFO: 
+Epoch 130
+2024-10-30 19:39:35,753 train INFO: Train loss: 0.09806, learning rate: 0.001000
+2024-10-30 19:40:12,951 train INFO: Validation dice: 0.816752, val loss:0.963086 best: 0.825671
+
+2024-10-30 19:40:13,017 train INFO: 
+Epoch 131
+2024-10-30 19:42:42,738 train INFO: Train loss: 0.09826, learning rate: 0.001000
+2024-10-30 19:43:19,877 train INFO: Validation dice: 0.815631, val loss:0.963129 best: 0.825671
+
+2024-10-30 19:43:19,943 train INFO: 
+Epoch 132
+2024-10-30 19:45:47,877 train INFO: Train loss: 0.09711, learning rate: 0.001000
+2024-10-30 19:46:25,321 train INFO: Validation dice: 0.804964, val loss:0.963523 best: 0.825671
+
+2024-10-30 19:46:25,394 train INFO: 
+Epoch 133
+2024-10-30 19:48:53,714 train INFO: Train loss: 0.10178, learning rate: 0.001000
+2024-10-30 19:49:30,897 train INFO: Validation dice: 0.783676, val loss:0.963757 best: 0.825671
+
+2024-10-30 19:49:30,963 train INFO: 
+Epoch 134
+2024-10-30 19:51:59,607 train INFO: Train loss: 0.09992, learning rate: 0.001000
+2024-10-30 19:52:37,009 train INFO: Validation dice: 0.797494, val loss:0.963356 best: 0.825671
+
+2024-10-30 19:52:37,069 train INFO: 
+Epoch 135
+2024-10-30 19:55:05,503 train INFO: Train loss: 0.10034, learning rate: 0.001000
+2024-10-30 19:55:42,854 train INFO: Validation dice: 0.805006, val loss:0.963219 best: 0.825671
+
+2024-10-30 19:55:42,914 train INFO: 
+Epoch 136
+2024-10-30 19:58:10,116 train INFO: Train loss: 0.09858, learning rate: 0.001000
+2024-10-30 19:58:47,022 train INFO: Validation dice: 0.802219, val loss:0.963402 best: 0.825671
+
+2024-10-30 19:58:47,082 train INFO: 
+Epoch 137
+2024-10-30 20:01:15,563 train INFO: Train loss: 0.11369, learning rate: 0.001000
+2024-10-30 20:01:52,358 train INFO: Validation dice: 0.795951, val loss:0.963291 best: 0.825671
+
+2024-10-30 20:01:52,417 train INFO: 
+Epoch 138
+2024-10-30 20:04:21,539 train INFO: Train loss: 0.11204, learning rate: 0.001000
+2024-10-30 20:04:58,760 train INFO: Validation dice: 0.654449, val loss:0.965561 best: 0.825671
+
+2024-10-30 20:04:58,819 train INFO: 
+Epoch 139
+2024-10-30 20:07:27,422 train INFO: Train loss: 0.10211, learning rate: 0.001000
+2024-10-30 20:08:04,265 train INFO: Validation dice: 0.567195, val loss:0.967048 best: 0.825671
+
+2024-10-30 20:08:04,315 train INFO: 
+Epoch 140
+2024-10-30 20:10:31,966 train INFO: Train loss: 0.10237, learning rate: 0.001000
+2024-10-30 20:11:08,846 train INFO: Validation dice: 0.813149, val loss:0.963260 best: 0.825671
+
+2024-10-30 20:11:08,906 train INFO: 
+Epoch 141
+2024-10-30 20:13:36,071 train INFO: Train loss: 0.09917, learning rate: 0.001000
+2024-10-30 20:14:12,956 train INFO: Validation dice: 0.805497, val loss:0.963311 best: 0.825671
+
+2024-10-30 20:14:13,015 train INFO: 
+Epoch 142
+2024-10-30 20:16:41,663 train INFO: Train loss: 0.10484, learning rate: 0.001000
+2024-10-30 20:17:18,685 train INFO: Validation dice: 0.811261, val loss:0.963052 best: 0.825671
+
+2024-10-30 20:17:18,745 train INFO: 
+Epoch 143
+2024-10-30 20:19:47,105 train INFO: Train loss: 0.10028, learning rate: 0.001000
+2024-10-30 20:20:24,202 train INFO: Validation dice: 0.811683, val loss:0.962967 best: 0.825671
+
+2024-10-30 20:20:24,261 train INFO: 
+Epoch 144
+2024-10-30 20:22:53,150 train INFO: Train loss: 0.09759, learning rate: 0.001000
+2024-10-30 20:23:30,311 train INFO: Validation dice: 0.811200, val loss:0.962980 best: 0.825671
+
+2024-10-30 20:23:30,370 train INFO: 
+Epoch 145
+2024-10-30 20:25:58,677 train INFO: Train loss: 0.09812, learning rate: 0.001000
+2024-10-30 20:26:35,782 train INFO: Validation dice: 0.803585, val loss:0.963290 best: 0.825671
+
+2024-10-30 20:26:35,841 train INFO: 
+Epoch 146
+2024-10-30 20:29:04,588 train INFO: Train loss: 0.09584, learning rate: 0.001000
+2024-10-30 20:29:41,837 train INFO: Validation dice: 0.813244, val loss:0.963218 best: 0.825671
+
+2024-10-30 20:29:41,897 train INFO: 
+Epoch 147
+2024-10-30 20:32:10,771 train INFO: Train loss: 0.09517, learning rate: 0.001000
+2024-10-30 20:32:48,016 train INFO: Validation dice: 0.813267, val loss:0.963187 best: 0.825671
+
+2024-10-30 20:32:48,075 train INFO: 
+Epoch 148
+2024-10-30 20:35:16,629 train INFO: Train loss: 0.09229, learning rate: 0.001000
+2024-10-30 20:35:53,755 train INFO: Validation dice: 0.811725, val loss:0.963448 best: 0.825671
+
+2024-10-30 20:35:53,814 train INFO: 
+Epoch 149
+2024-10-30 20:38:21,985 train INFO: Train loss: 0.09231, learning rate: 0.001000
+2024-10-30 20:38:59,157 train INFO: Validation dice: 0.808799, val loss:0.963612 best: 0.825671
+
+2024-10-30 20:38:59,215 train INFO: 
+Epoch 150
+2024-10-30 20:41:27,816 train INFO: Train loss: 0.09120, learning rate: 0.001000
+2024-10-30 20:42:04,476 train INFO: Validation dice: 0.822788, val loss:0.962718 best: 0.825671
+
+2024-10-30 20:42:04,526 train INFO: 
+Epoch 151
+2024-10-30 20:44:33,443 train INFO: Train loss: 0.08874, learning rate: 0.001000
+2024-10-30 20:45:10,322 train INFO: Validation dice: 0.824367, val loss:0.963115 best: 0.825671
+
+2024-10-30 20:45:10,372 train INFO: 
+Epoch 152
+2024-10-30 20:47:40,243 train INFO: Train loss: 0.09139, learning rate: 0.001000
+2024-10-30 20:48:17,054 train INFO: Validation dice: 0.819647, val loss:0.962960 best: 0.825671
+
+2024-10-30 20:48:17,105 train INFO: 
+Epoch 153
+2024-10-30 20:50:46,532 train INFO: Train loss: 0.09258, learning rate: 0.001000
+2024-10-30 20:51:23,658 train INFO: Validation dice: 0.816399, val loss:0.963225 best: 0.825671
+
+2024-10-30 20:51:23,734 train INFO: 
+Epoch 154
+2024-10-30 20:53:51,841 train INFO: Train loss: 0.08946, learning rate: 0.001000
+2024-10-30 20:54:28,890 train INFO: Validation dice: 0.814673, val loss:0.962981 best: 0.825671
+
+2024-10-30 20:54:28,949 train INFO: 
+Epoch 155
+2024-10-30 20:56:56,474 train INFO: Train loss: 0.08946, learning rate: 0.001000
+2024-10-30 20:57:33,441 train INFO: Validation dice: 0.809816, val loss:0.963075 best: 0.825671
+
+2024-10-30 20:57:33,499 train INFO: 
+Epoch 156
+2024-10-30 21:00:02,100 train INFO: Train loss: 0.08732, learning rate: 0.001000
+2024-10-30 21:00:39,218 train INFO: Validation dice: 0.818284, val loss:0.962868 best: 0.825671
+
+2024-10-30 21:00:39,276 train INFO: 
+Epoch 157
+2024-10-30 21:03:07,747 train INFO: Train loss: 0.08953, learning rate: 0.001000
+2024-10-30 21:03:44,851 train INFO: Validation dice: 0.817350, val loss:0.962913 best: 0.825671
+
+2024-10-30 21:03:44,902 train INFO: 
+Epoch 158
+2024-10-30 21:06:13,748 train INFO: Train loss: 0.08909, learning rate: 0.001000
+2024-10-30 21:06:51,031 train INFO: Validation dice: 0.818509, val loss:0.963226 best: 0.825671
+
+2024-10-30 21:06:51,092 train INFO: 
+Epoch 159
+2024-10-30 21:09:19,205 train INFO: Train loss: 0.09158, learning rate: 0.001000
+2024-10-30 21:09:56,060 train INFO: Validation dice: 0.824324, val loss:0.962808 best: 0.825671
+
+2024-10-30 21:09:56,119 train INFO: 
+Epoch 160
+2024-10-30 21:12:23,750 train INFO: Train loss: 0.09334, learning rate: 0.001000
+2024-10-30 21:13:00,770 train INFO: Validation dice: 0.821901, val loss:0.962895 best: 0.825671
+
+2024-10-30 21:13:00,813 train INFO: 
+Epoch 161
+2024-10-30 21:15:29,232 train INFO: Train loss: 0.08990, learning rate: 0.001000
+2024-10-30 21:16:06,252 train INFO: Validation dice: 0.816043, val loss:0.963320 best: 0.825671
+
+2024-10-30 21:16:06,312 train INFO: 
+Epoch 162
+2024-10-30 21:18:34,745 train INFO: Train loss: 0.08733, learning rate: 0.001000
+2024-10-30 21:19:11,393 train INFO: Validation dice: 0.823157, val loss:0.963087 best: 0.825671
+
+2024-10-30 21:19:11,452 train INFO: 
+Epoch 163
+2024-10-30 21:21:39,136 train INFO: Train loss: 0.08744, learning rate: 0.001000
+2024-10-30 21:22:15,953 train INFO: Validation dice: 0.823381, val loss:0.962856 best: 0.825671
+
+2024-10-30 21:22:16,029 train INFO: 
+Epoch 164
+2024-10-30 21:24:43,918 train INFO: Train loss: 0.08604, learning rate: 0.001000
+2024-10-30 21:25:20,961 train INFO: Validation dice: 0.825188, val loss:0.963022 best: 0.825671
+
+2024-10-30 21:25:21,037 train INFO: 
+Epoch 165
+2024-10-30 21:27:49,810 train INFO: Train loss: 0.08855, learning rate: 0.001000
+2024-10-30 21:28:27,048 train INFO: Validation dice: 0.817583, val loss:0.962884 best: 0.825671
+
+2024-10-30 21:28:27,123 train INFO: 
+Epoch 166
+2024-10-30 21:30:56,779 train INFO: Train loss: 0.09161, learning rate: 0.001000
+2024-10-30 21:31:34,076 train INFO: Validation dice: 0.809210, val loss:0.963453 best: 0.825671
+
+2024-10-30 21:31:34,134 train INFO: 
+Epoch 167
+2024-10-30 21:34:03,222 train INFO: Train loss: 0.09260, learning rate: 0.001000
+2024-10-30 21:34:40,830 train INFO: Validation dice: 0.800787, val loss:0.963415 best: 0.825671
+
+2024-10-30 21:34:40,889 train INFO: 
+Epoch 168
+2024-10-30 21:37:09,241 train INFO: Train loss: 0.09080, learning rate: 0.001000
+2024-10-30 21:37:46,712 train INFO: Validation dice: 0.813112, val loss:0.963206 best: 0.825671
+
+2024-10-30 21:37:46,772 train INFO: 
+Epoch 169
+2024-10-30 21:40:17,987 train INFO: Train loss: 0.08659, learning rate: 0.001000
+2024-10-30 21:40:56,326 train INFO: Validation dice: 0.807898, val loss:0.963378 best: 0.825671
+
+2024-10-30 21:40:56,385 train INFO: 
+Epoch 170
+2024-10-30 21:43:27,851 train INFO: Train loss: 0.08968, learning rate: 0.001000
+2024-10-30 21:44:04,728 train INFO: Validation dice: 0.812120, val loss:0.963177 best: 0.825671
+
+2024-10-30 21:44:04,789 train INFO: 
+Epoch 171
+2024-10-30 21:46:35,283 train INFO: Train loss: 0.08727, learning rate: 0.001000
+2024-10-30 21:47:12,614 train INFO: Validation dice: 0.819303, val loss:0.963042 best: 0.825671
+
+2024-10-30 21:47:12,674 train INFO: 
+Epoch 172
+2024-10-30 21:49:42,668 train INFO: Train loss: 0.08523, learning rate: 0.001000
+2024-10-30 21:50:19,174 train INFO: Validation dice: 0.812986, val loss:0.963108 best: 0.825671
+
+2024-10-30 21:50:19,234 train INFO: 
+Epoch 173
+2024-10-30 21:52:48,239 train INFO: Train loss: 0.08524, learning rate: 0.001000
+2024-10-30 21:53:25,263 train INFO: Validation dice: 0.819690, val loss:0.963204 best: 0.825671
+
+2024-10-30 21:53:25,313 train INFO: 
+Epoch 174
+2024-10-30 21:55:53,406 train INFO: Train loss: 0.08543, learning rate: 0.001000
+2024-10-30 21:56:30,475 train INFO: Validation dice: 0.820711, val loss:0.963233 best: 0.825671
+
+2024-10-30 21:56:30,541 train INFO: 
+Epoch 175
+2024-10-30 21:58:59,329 train INFO: Train loss: 0.08512, learning rate: 0.001000
+2024-10-30 21:59:36,533 train INFO: Validation dice: 0.822497, val loss:0.963071 best: 0.825671
+
+2024-10-30 21:59:36,592 train INFO: 
+Epoch 176
+2024-10-30 22:02:03,129 train INFO: Train loss: 0.08483, learning rate: 0.001000
+2024-10-30 22:02:40,430 train INFO: Validation dice: 0.808665, val loss:0.962614 best: 0.825671
+
+2024-10-30 22:02:40,490 train INFO: 
+Epoch 177
+2024-10-30 22:05:09,624 train INFO: Train loss: 0.09257, learning rate: 0.001000
+2024-10-30 22:05:46,854 train INFO: Validation dice: 0.807658, val loss:0.963007 best: 0.825671
+
+2024-10-30 22:05:46,919 train INFO: 
+Epoch 178
+2024-10-30 22:08:13,880 train INFO: Train loss: 0.08880, learning rate: 0.001000
+2024-10-30 22:08:50,765 train INFO: Validation dice: 0.804398, val loss:0.963391 best: 0.825671
+
+2024-10-30 22:08:50,824 train INFO: 
+Epoch 179
+2024-10-30 22:11:19,886 train INFO: Train loss: 0.08861, learning rate: 0.001000
+2024-10-30 22:11:56,606 train INFO: Validation dice: 0.815872, val loss:0.963003 best: 0.825671
+
+2024-10-30 22:11:56,667 train INFO: 
+Epoch 180
+2024-10-30 22:14:25,209 train INFO: Train loss: 0.08539, learning rate: 0.001000
+2024-10-30 22:15:02,241 train INFO: Validation dice: 0.821043, val loss:0.963117 best: 0.825671
+
+2024-10-30 22:15:02,295 train INFO: 
+Epoch 181
+2024-10-30 22:17:30,902 train INFO: Train loss: 0.08657, learning rate: 0.001000
+2024-10-30 22:18:07,593 train INFO: Validation dice: 0.810180, val loss:0.963100 best: 0.825671
+
+2024-10-30 22:18:07,652 train INFO: 
+Epoch 182
+2024-10-30 22:20:34,989 train INFO: Train loss: 0.08349, learning rate: 0.001000
+2024-10-30 22:21:11,988 train INFO: Validation dice: 0.817737, val loss:0.963230 best: 0.825671
+
+2024-10-30 22:21:12,048 train INFO: 
+Epoch 183
+2024-10-30 22:23:40,406 train INFO: Train loss: 0.08330, learning rate: 0.001000
+2024-10-30 22:24:17,243 train INFO: Validation dice: 0.815451, val loss:0.963353 best: 0.825671
+
+2024-10-30 22:24:17,304 train INFO: 
+Epoch 184
+2024-10-30 22:26:44,818 train INFO: Train loss: 0.08444, learning rate: 0.001000
+2024-10-30 22:27:21,674 train INFO: Validation dice: 0.821816, val loss:0.963058 best: 0.825671
+
+2024-10-30 22:27:21,734 train INFO: 
+Epoch 185
+2024-10-30 22:29:49,173 train INFO: Train loss: 0.08251, learning rate: 0.001000
+2024-10-30 22:30:25,888 train INFO: Validation dice: 0.818206, val loss:0.963061 best: 0.825671
+
+2024-10-30 22:30:25,963 train INFO: 
+Epoch 186
+2024-10-30 22:32:53,982 train INFO: Train loss: 0.08231, learning rate: 0.001000
+2024-10-30 22:33:31,217 train INFO: Validation dice: 0.816634, val loss:0.963385 best: 0.825671
+
+2024-10-30 22:33:31,283 train INFO: 
+Epoch 187
+2024-10-30 22:35:58,252 train INFO: Train loss: 0.08301, learning rate: 0.001000
+2024-10-30 22:36:35,281 train INFO: Validation dice: 0.817040, val loss:0.963105 best: 0.825671
+
+2024-10-30 22:36:35,342 train INFO: 
+Epoch 188
+2024-10-30 22:39:03,443 train INFO: Train loss: 0.08246, learning rate: 0.001000
+2024-10-30 22:39:40,716 train INFO: Validation dice: 0.816575, val loss:0.963163 best: 0.825671
+
+2024-10-30 22:39:40,775 train INFO: 
+Epoch 189
+2024-10-30 22:42:08,558 train INFO: Train loss: 0.08969, learning rate: 0.001000
+2024-10-30 22:42:45,684 train INFO: Validation dice: 0.791015, val loss:0.963585 best: 0.825671
+
+2024-10-30 22:42:45,734 train INFO: 
+Epoch 190
+2024-10-30 22:45:12,148 train INFO: Train loss: 0.10353, learning rate: 0.001000
+2024-10-30 22:45:49,228 train INFO: Validation dice: 0.625776, val loss:0.965382 best: 0.825671
+
+2024-10-30 22:45:49,287 train INFO: 
+Epoch 191
+2024-10-30 22:48:16,159 train INFO: Train loss: 0.13425, learning rate: 0.001000
+2024-10-30 22:48:52,818 train INFO: Validation dice: 0.720119, val loss:0.964131 best: 0.825671
+
+2024-10-30 22:48:52,874 train INFO: 
+Epoch 192
+2024-10-30 22:51:20,074 train INFO: Train loss: 0.12220, learning rate: 0.001000
+2024-10-30 22:51:56,827 train INFO: Validation dice: 0.769607, val loss:0.963255 best: 0.825671
+
+2024-10-30 22:51:56,887 train INFO: 
+Epoch 193
+2024-10-30 22:54:24,791 train INFO: Train loss: 0.11105, learning rate: 0.001000
+2024-10-30 22:55:01,451 train INFO: Validation dice: 0.793616, val loss:0.963160 best: 0.825671
+
+2024-10-30 22:55:01,509 train INFO: 
+Epoch 194
+2024-10-30 22:57:29,800 train INFO: Train loss: 0.09862, learning rate: 0.001000
+2024-10-30 22:58:06,700 train INFO: Validation dice: 0.804201, val loss:0.963459 best: 0.825671
+
+2024-10-30 22:58:06,766 train INFO: 
+Epoch 195
+2024-10-30 23:00:36,070 train INFO: Train loss: 0.10124, learning rate: 0.001000
+2024-10-30 23:01:12,574 train INFO: Validation dice: 0.785993, val loss:0.963545 best: 0.825671
+
+2024-10-30 23:01:12,634 train INFO: 
+Epoch 196
+2024-10-30 23:03:39,885 train INFO: Train loss: 0.09308, learning rate: 0.001000
+2024-10-30 23:04:16,832 train INFO: Validation dice: 0.817638, val loss:0.962872 best: 0.825671
+
+2024-10-30 23:04:16,892 train INFO: 
+Epoch 197
+2024-10-30 23:06:45,328 train INFO: Train loss: 0.09306, learning rate: 0.001000
+2024-10-30 23:07:22,100 train INFO: Validation dice: 0.818975, val loss:0.963158 best: 0.825671
+
+2024-10-30 23:07:22,174 train INFO: 
+Epoch 198
+2024-10-30 23:09:50,125 train INFO: Train loss: 0.09292, learning rate: 0.001000
+2024-10-30 23:10:27,490 train INFO: Validation dice: 0.751120, val loss:0.964441 best: 0.825671
+
+2024-10-30 23:10:27,550 train INFO: 
+Epoch 199
+2024-10-30 23:12:54,669 train INFO: Train loss: 0.09421, learning rate: 0.001000
+2024-10-30 23:13:31,513 train INFO: Validation dice: 0.805943, val loss:0.963685 best: 0.825671
+
+2024-10-30 23:13:31,572 train INFO: 
+Epoch 200
+2024-10-30 23:15:59,290 train INFO: Train loss: 0.09338, learning rate: 0.001000
+2024-10-30 23:16:36,518 train INFO: Validation dice: 0.812974, val loss:0.963421 best: 0.825671
+
