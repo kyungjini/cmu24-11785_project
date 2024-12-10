@@ -15,9 +15,7 @@ The dataset was divided as follows:
 
 | Model                           | Metric        | Previous Study       | Our Implementation       |
 |---------------------------------|---------------|----------------------|--------------------------|
-
-| **U-Net w/ EfficientNet-B0**    | Dice Score    | 0.829 (95% CI, 0.808–0.847)                | 0.825 |
-|                                 
+| **U-Net w/ EfficientNet-B0**    | Dice Score    | 0.829 (95% CI, 0.808–0.847)  | 0.825 |                           
 
 ### Workflow
 The baseline model was implemented with the following steps:
